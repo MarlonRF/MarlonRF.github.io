@@ -10,9 +10,7 @@ Underconstruction!
 
 
 
-## Fuzzy match for string
-
-https://teste-fuzzy.herokuapp.com
+## [Fuzzy match for string] (https://teste-fuzzy.herokuapp.com)
 
 ## Blox plot - CETESB data on air pollution around São Paulo (2013-2018)
 https://trukers-strike-2018.herokuapp.com/
