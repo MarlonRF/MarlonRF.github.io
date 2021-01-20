@@ -4,9 +4,6 @@
 
 layout: home
 ---
-Personal webpage. 
-
-Underconstruction!
 
 
 # Applications in Heroku
