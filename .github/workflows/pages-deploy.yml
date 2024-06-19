@@ -55,7 +55,7 @@ jobs:
           bundle exec htmlproofer _site \
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,/^http:\/\/lattes.cnpq.br/"
-            -url-ignore "/^\/assets\/imagens\/icons8-favicon-16.png/,/^\/assets\/img\/figuras\/print_painel_iago.png/,/^\/assets\/img\/figuras\/print_painel_tcc.png/"
+            \-\-url-ignore "/^\/assets\/imagens\/icons8-favicon-16.png/,/^\/assets\/img\/figuras\/print_painel_iago.png/,/^\/assets\/img\/figuras\/print_painel_tcc.png/"
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
