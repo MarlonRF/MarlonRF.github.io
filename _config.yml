@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: pt-br
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-#timezone: America/Sao_Paulo
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Marlon Faria # the main title
 
-tagline: Página pessoal # it will display as the sub-title
+tagline: Página pessoal em construção # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Página pessoal de Marlon Faria.
