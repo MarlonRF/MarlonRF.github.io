@@ -13,4 +13,4 @@ order: 4
 
 [Painel Analítico desenvolvido para apresentar os dados do TCC do Bacharelado em Matemática Aplicada e computacional do IME/USP](https://ciab-dkc3sigowq-wn.a.run.app/)
 
-![Painel TCC](assets\img\figuras\print_painel_tcc.png){: width="50%"}
+![Painel TCC](assets/img/figuras/print_painel_tcc.png){: width="50%"}
