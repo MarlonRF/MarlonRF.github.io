@@ -19,11 +19,11 @@ order: 1
 
 | Local       | Início | Término | Função              |
 |-------------|--------|---------|---------------------|
-| EACH/USP    | 2018   | 2019    | Auxiliar Acadêmico  |
-| IME/USP     | 2010   | 2010    | Auxiliar Financeiro |
-| FFLCH/USP   | 2010   | 2017    | Técnico Acadêmico   |
-| LETS        | 2019   | 2020    | Desenvolvedor       |
 | IF/USP      | 2017   | 2024    | Analista de Dados   |
+| LETS        | 2019   | 2020    | Desenvolvedor       |
+| FFLCH/USP   | 2010   | 2017    | Técnico Acadêmico   |
+| IME/USP     | 2010   | 2010    | Auxiliar Financeiro |
+| EACH/USP    | 2018   | 2019    | Auxiliar Acadêmico  |
 
 
 ## Cursos
@@ -31,7 +31,7 @@ order: 1
 | Nome do Curso                                   | Carga Horária | Escola/Instituição      |
 |-------------------------------------------------|---------------|-------------------------|
 | Curso Técnico Administração                     | 360h          | PROMINP/Petrobrás       |
-| Data Science and Big Data Analytics             | 180h          | MIT                     |
+| Data Science and Big Data Analytics             | 120h          | MIT                     |
 | Database Design                                 | 4h            | DataCamp                |
 | Deep Learning in Astronomy                      | 8h            | IAG/USP                 |
 | Desenvolvimento de sistemas inteligentes        | 30h           | IME/USP                 |
@@ -58,6 +58,7 @@ order: 1
 ## Idiomas
 
 Inglês C.2
+
 Japonês Básico
 
 
@@ -66,6 +67,7 @@ Japonês Básico
 Produção completa, bem como o número de citações:
 
 [Currículo Lattes](http://lattes.cnpq.br/1293925960269562)
+
 [Google Acadêmico](https://scholar.google.com/citations?hl=pt-BR&user=Eg3gr7YAAAAJ)
 
 
