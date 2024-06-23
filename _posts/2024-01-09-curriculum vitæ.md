@@ -12,7 +12,7 @@ Publicado página com [currículo completo](/Curículo-Completo/):
 - Cursos diversos
 - Artigos científicos publicados
 
-Além do endereço para meus perfis nas plataformas acadêmicas Google Scholar e Lattes, com produção completa e nº de citações:
+Além disso, publiquei o endereço para meus perfis nas plataformas acadêmicas Google Scholar e Lattes, com produção completa e nº de citações:
 
 [Currículo Lattes](http://lattes.cnpq.br/1293925960269562){:target="_blank"}
 

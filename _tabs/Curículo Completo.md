@@ -64,7 +64,7 @@ Japonês Básico
 
 # Produção Acadêmica
 
-Produção completa, bem como o número de citações:
+Produção completa, bem como o número de citações, acesse os perfis nas plataformas:
 
 [Currículo Lattes](http://lattes.cnpq.br/1293925960269562)
 
