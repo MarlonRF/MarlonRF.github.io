@@ -7,7 +7,6 @@ tags: [writing]
 render_with_liquid: True
 ---
 
-
 Publicado página com [portifólio](/Portifólio/) de aplicações em BI.
 
 Em breve introduzo outras aplicações e scripts.
