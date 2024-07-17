@@ -1,5 +1,6 @@
 ---
 title: "Record Linkage: Conectando Dados Dispersos com Python"
+author: marlonrf
 date: 2024-07-16 14:10:00 -500
 categories: [profissional]
 tags: [Python, Record Linkage, Levenshtein]
