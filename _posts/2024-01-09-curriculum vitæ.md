@@ -7,7 +7,7 @@ tags: [cv, artigos, cursos, formação, lattes, google scholar]
 render_with_liquid: True
 ---
 
-Publicado página com [currículo completo](/Curículo-Completo/):
+Publicado página com [currículo completo](/Currículo-Completo/):
 - Formação Acadêmica
 - Cursos diversos
 - Artigos científicos publicados
