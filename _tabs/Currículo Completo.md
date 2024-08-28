@@ -1,66 +1,106 @@
----
-layout: page
-icon: fa fa-user
-order: 1
----
-
 
 ## Formação Acadêmica
 
-| Nome do Curso                                  | Início | Término |  Escola/Instituição |
-|------------------------------------------------|--------|---------|---------------------|
-| MBA em Engenharia de Software                  | 2023   | 2025    |Esalq/USP            |
-| MBA em Ciência de Dados                        | 2023   | 2025    |Poli/USP             |
-| Bacharel em Matemática Aplicada e Computacional| 2019   | 2023    |IME/USP              |
-| Bacharel em Física                             | 2010   | 2017    |IF/USP               |
+| Nome do Curso                                   | Início | Término | Escola/Instituição |
+| ----------------------------------------------- | ------ | ------- | ------------------ |
+| MBA em Engenharia de Software                   | 2023   | 2025    | Esalq-USP          |
+| MBA em Ciência de Dados                         | 2023   | 2025    | Poli-USP           |
+| Bacharel em Matemática Aplicada e Computacional | 2019   | 2023    | IME-USP            |
+| Bacharel em Física                              | 2010   | 2017    | IF-USP             |
+
+#### Aluno especial de pós-graduação
+
+| Disciplina                                                   | Carga horária | Ano  | Escola/Instituição |
+| ------------------------------------------------------------ | ------------- | ---- | ------------------ |
+| Aspectos Sociais e Tecnologicos da Segurança Nuclear         | 120h          | 2021 | IPEN-USP           |
+| Gestão do Conhecimento - Transformando Dados em Conhecimento | 150h          | 2021 | IPEN-USP           |
 
 
 ## Experiência Profissional
 
-| Local       | Início | Término | Função              |
-|-------------|--------|---------|---------------------|
-| IF/USP      | 2017   | 2024    | Analista de Dados   |
-| LETS        | 2019   | 2020    | Desenvolvedor       |
-| FFLCH/USP   | 2010   | 2017    | Técnico Acadêmico   |
-| IME/USP     | 2010   | 2010    | Auxiliar Financeiro |
-| EACH/USP    | 2018   | 2019    | Auxiliar Acadêmico  |
-
+| Local     | Início | Término | Função                     |
+| --------- | ------ | ------- | -------------------------- |
+| IF-USP    | 2017   | 2024    | Técnico (Análise de Dados) |
+| LETS      | 2019   | 2020    | Desenvolvedor              |
+| FFLCH-USP | 2010   | 2017    | Técnico Acadêmico          |
+| IME-USP   | 2010   | 2010    | Auxiliar Financeiro        |
+| EACH-USP  | 2018   | 2019    | Auxiliar Acadêmico         |
 
 ## Cursos
 
-| Nome do Curso                                   | Carga Horária | Escola/Instituição      |
-|-------------------------------------------------|---------------|-------------------------|
-| Curso Técnico Administração                     | 360h          | PROMINP/Petrobrás       |
-| Data Science and Big Data Analytics             | 120h          | MIT                     |
-| Database Design                                 | 4h            | DataCamp                |
-| Deep Learning in Astronomy                      | 8h            | IAG/USP                 |
-| Desenvolvimento de sistemas inteligentes        | 30h           | IME/USP                 |
-| From Data to Insights with Google Cloud (Big Query) | 35h       | Coursera                |
-| HTML 5, CSS e JavaScript                        | 30h           | IME/USP                 |
-| Image Processing in Python                      | 4h            | DataCamp                |
-| Intermediate Python                             | 4h            | DataCamp                |
-| Introduction to Docker                          | 4h            | DataCamp                |
-| Introduction to Importing Data in Python        | 4h            | DataCamp                |
-| Introduction to NLP in Python                   | 4h            | DataCamp                |
-| Introduction to Python                          | 4h            | DataCamp                |
-| Introduction to Relational Databases in SQL     | 4h            | DataCamp                |
-| Introduction to SQL                             | 4h            | DataCamp                |
-| Java                                            | 30h           | Codecademy              |
-| Joining Data in SQL                             | 4h            | DataCamp                |
-| Python Data Science Toolbox I                   | 4h            | DataCamp                |
-| Python Data Science Toolbox II                  | 4h            | DataCamp                |
-| Python PLN                                      | 20h           | ICMC/USP                |
-| Reading & Writing - Inglês                      | 60h           | AUCANI/USP              |
-| Understanding Data Engineering                  | 4h            | DataCamp                |
-| História da Algebra                             | 60h           | AUCANI/USP              |
-| História da Matemática                          | 4h            | DataCamp                |
+| Nome do Curso                                           | Carga horária | Escola/Instituição | Ano          |
+| ------------------------------------------------------- | ------------- | ------------------ | ------------ |
+| Design Databases With PostgreSQL Codecademy 2024        | 4h            | Code Academy       | Em progresso |
+| Introduction to Mongo DB                                | 4h            | DataCamp           | Em progresso |
+| Object-Oriented Programmig in Python                    | 4h            | DataCamp           | Em progresso |
+| Visualizing Geospatial Data in Python                   | 4h            | DataCamp           | Em progresso |
+| Power BI                                                | 48h           | DataCamp           | Em progresso |
+| NoSQL Concepts                                          | 2h            | DataCamp           | Em progresso |
+| Anomaly Detection in Python                             | 4h            | DataCamp           | 2024         |
+| Big Data Fundamentals with PySpark                      | 4h            | DataCamp           | 2024         |
+| Cleaning Data with PySpark                              | 4h            | DataCamp           | 2024         |
+| Feature Engineering with PySpark                        | 4h            | DataCamp           | 2024         |
+| Introduction to PySpark                                 | 4h            | DataCamp           | 2024         |
+| Machine Learning with PySpark                           | 4h            | DataCamp           | 2024         |
+| AWS Cloud Foundations                                   | 40h           | AWS Academy        | 2024         |
+| Building Recommendation Engines with PySpark            | 3h            | DataCamp           | 2024         |
+| Building a Demand Forecasting Model                     | 2h            | DataCamp           | 2024         |
+| Database Design                                         | 4h            | DataCamp           | 2023         |
+| Intermediate Python                                     | 4h            | DataCamp           | 2023         |
+| Introduction to Docker                                  | 4h            | DataCamp           | 2023         |
+| Introduction to Relational Databases in SQL             | 4h            | DataCamp           | 2023         |
+| Introduction to SQL                                     | 4h            | DataCamp           | 2023         |
+| Joining Data in SQL                                     | 4h            | DataCamp           | 2023         |
+| From Data to Insights with Google Cloud (Big Query)     | 35h           | Coursera           | 2023         |
+| Java                                                    | 30h           | Codecademy         | 2023         |
+| Intermediate SQL                                        | 2h            | DataCamp           | 2023         |
+| Image Processing in Python                              | 4h            | DataCamp           | 2022         |
+| Introduction to Importing Data in Python                | 4h            | DataCamp           | 2022         |
+| Python Data Science Toolbox I                           | 4h            | DataCamp           | 2022         |
+| Python Data Science Toolbox II                          | 4h            | DataCamp           | 2022         |
+| Understanding Data Engineering                          | 4h            | DataCamp           | 2022         |
+| Introduction to Functions in Python                     | 3h            | DataCamp           | 2022         |
+| Desenvolvimento de sistemas inteligentes                | 30h           | IME-USP            | 2022         |
+| Academic Communication in Reading & Writing             | 30            | AUCANI USP         | 2021         |
+| Python PLN                                              | 20h           | ICMC/USP           | 2021         |
+| Advanced NLP with spacy                                 | 4h            | Spacy Couses       | 2020         |
+| Deep Learning in Astronomy                              | 8h            | IAG-USP            | 2019         |
+| Introduction to NLP in Python                           | 4h            | DataCamp           | 2019         |
+| Introduction to Python                                  | 4h            | DataCamp           | 2018         |
+| HTML 5, CSS e JavaScript                                | 30h           | IME-USP            | 2018         |
+| Data Science and Big Data Analytics                     | 120h          | MIT                | 2018         |
+| Programação com Arduino                                 | 40            | SENAC              | 2017         |
+| Treinamento sobre Elaboração de estruturas Currículares | 15            | PG-USP             | 2014         |
+| Inglês para Funcionários B1                             | 60            | CL-FFLHC           | 2013         |
+| Noções de Mercado Financeiros para estudantes de exatas | 30            | IME USP            | 2012         |
+| História da Algebra                                     | 10            | IME-USP            | 2012         |
+| Japonês Básico                                          | 60            | Cl-FFLHC           | 2011         |
+| Br Office                                               | 20            | STI-FFLHC          | 2011         |
+| Inglês Instrumental I                                   | 60            | CL-FFLCH           | 2010         |
+| Inglês Instrumental II                                  | 60            | CL-FFLCH           | 2010         |
+| História da Matemática                                  | 15h           | IME-USP            | 2010         |
+| BOVESPA Master                                          | 6h            | BOVESPA            | 2008         |
+| Curso Técnico Administração                             | 240h          | PROMINP-Petrobrás  | 2008         |
+| Prevenção de acidentes CIPA                             | 20            | SESMT-USP          | 2013         |
+
+# Palestras e Eventos
+
+| Evento                                                                    | Carga horária | Escola/Instituição | Ano  |
+| ------------------------------------------------------------------------- | ------------- | ------------------ | ---- |
+| 1ª Jornada De Filosofia Oriental                                          | 10h           | FFLCH-USP          | 2011 |
+| Lançando luz sobre a Mecânica Quantica                                    | 3h            | IF-USP             | 2013 |
+| Stress no Trabalho e Síndrome de Burnout<br>                              | 2h            | SEMST-USP          | 2012 |
+| Aula Aberta com Prof. William D. Philips - Prêmio Nobel de Física em 2017 | 3h            | IF-USP             | 2009 |
 
 ## Idiomas
 
-Inglês C.2
+Inglês: C.2 (Proficiente)
+Japonês: Básico
 
-Japonês Básico
+# Artigos na web
 
+Record Linkage: Conectando Dados Dispersos com Python; Medium.
+https://medium.com/@marlonresendefaria/record-linkage-conectando-dados-dispersos-com-python-5d77d43b1741; 2024
 
 # Produção Acadêmica
 
