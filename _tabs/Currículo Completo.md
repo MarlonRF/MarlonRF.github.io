@@ -1,3 +1,8 @@
+---
+layout: page
+icon: fa-solid fa-code
+order: 1
+---
 
 ## Formação Acadêmica
 
