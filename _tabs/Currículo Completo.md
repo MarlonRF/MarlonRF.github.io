@@ -11,7 +11,7 @@ order: 1
 | MBA em Engenharia de Software                   | 2023   | 2025    | Esalq-USP          |
 | MBA em Ciência de Dados                         | 2023   | 2025    | Poli-USP           |
 | Bacharel em Matemática Aplicada e Computacional | 2019   | 2023    | IME-USP            |
-| Bacharel em Física                              | 2010   | 2017    | IF-USP             |
+| Bacharel em Física                              | 2010   | 2016    | IF-USP             |
 
 #### Aluno especial de pós-graduação
 
@@ -23,25 +23,22 @@ order: 1
 
 ## Experiência Profissional
 
-| Local     | Início | Término | Função                     |
-| --------- | ------ | ------- | -------------------------- |
-| IF-USP    | 2017   | 2024    | Técnico (Análise de Dados) |
-| LETS      | 2019   | 2020    | Desenvolvedor              |
-| FFLCH-USP | 2010   | 2017    | Técnico Acadêmico          |
-| IME-USP   | 2010   | 2010    | Auxiliar Financeiro        |
-| EACH-USP  | 2018   | 2019    | Auxiliar Acadêmico         |
+| Local     | Início | Término       | Função                                    |
+| --------- | ------ | ------------- | ----------------------------------------- |
+| FAU-USP   | 2025   | Em andamento  | Especialista em Computação de Alto Desempenho |
+| IF-USP    | 2017   | 2025          | Técnico (Análise de Dados)                |
+| LETS      | 2019   | 2020          | Desenvolvedor                             |
+| FFLCH-USP | 2010   | 2017          | Técnico Acadêmico                         |
+| IME-USP   | 2010   | 2010          | Auxiliar Financeiro                       |
+| EACH-USP  | 2018   | 2019          | Auxiliar Acadêmico                        |
 
 ## Cursos
 
 | Nome do Curso                                           | Carga horária | Escola/Instituição | Ano          |
 | ------------------------------------------------------- | ------------- | ------------------ | ------------ |
-| Design Databases With PostgreSQL Codecademy 2024        | 4h            | Code Academy       | Em progresso |
-| Introduction to Mongo DB                                | 4h            | DataCamp           | Em progresso |
-| Object-Oriented Programmig in Python                    | 4h            | DataCamp           | Em progresso |
-| Visualizing Geospatial Data in Python                   | 4h            | DataCamp           | Em progresso |
-| Power BI                                                | 48h           | DataCamp           | Em progresso |
-| NoSQL Concepts                                          | 2h            | DataCamp           | Em progresso |
-| Anomaly Detection in Python                             | 4h            | DataCamp           | 2024         |
+| React                                                   | 20h           | Codecademy         | Em progresso |
+| JavaScript                                              | 30h           | Codecademy         | Em progresso |
+| Django                                                  | 30h           | Codecademy         | Em progresso |
 | Big Data Fundamentals with PySpark                      | 4h            | DataCamp           | 2024         |
 | Cleaning Data with PySpark                              | 4h            | DataCamp           | 2024         |
 | Feature Engineering with PySpark                        | 4h            | DataCamp           | 2024         |
@@ -94,7 +91,7 @@ order: 1
 | ------------------------------------------------------------------------- | ------------- | ------------------ | ---- |
 | 1ª Jornada De Filosofia Oriental                                          | 10h           | FFLCH-USP          | 2011 |
 | Lançando luz sobre a Mecânica Quantica                                    | 3h            | IF-USP             | 2013 |
-| Stress no Trabalho e Síndrome de Burnout<br>                              | 2h            | SEMST-USP          | 2012 |
+| Stress no Trabalho e Síndrome de Burnout                                  | 2h            | SEMST-USP          | 2012 |
 | Aula Aberta com Prof. William D. Philips - Prêmio Nobel de Física em 2017 | 3h            | IF-USP             | 2009 |
 
 ## Idiomas
@@ -104,8 +101,7 @@ Japonês: Básico
 
 # Artigos na web
 
-Record Linkage: Conectando Dados Dispersos com Python; Medium.
-https://medium.com/@marlonresendefaria/record-linkage-conectando-dados-dispersos-com-python-5d77d43b1741; 2024
+[Record Linkage: Conectando Dados Dispersos com Python; Medium; 2024.](https://medium.com/@marlonresendefaria/record-linkage-conectando-dados-dispersos-com-python-5d77d43b1741)
 
 # Produção Acadêmica
 
